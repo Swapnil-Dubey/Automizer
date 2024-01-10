@@ -13,7 +13,8 @@ Automizer is a Python-based file sorting application that organizes files within
 3. Confirm the path selection by selecting the folder through the dialogue box.
 4. The application automatically categorizes files within the folder based on their extensions.
 5. Receive notifications for successful sorting completion or potential errors.
-##Usage Notes:
+   
+## Usage Notes:
 - Ensure the entered path points to a valid directory.
 - Supported file types/extensions are categorized into predefined folders.
 - Notifications provide feedback on successful file sorting or encountered issues.
